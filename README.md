@@ -22,7 +22,7 @@ Birth Year
 
 # Statistics Computed
 
-## 1 Popular times of travel (i.e., occurs most often in the start time)
+### 1 Popular times of travel (i.e., occurs most often in the start time)
   most common month
   
   most common day of week
